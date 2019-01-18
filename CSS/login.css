@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.text-danger{
+	color: red !important;
+}
+.login_background{
+	background-image: url("../images/graph_image/601.jpg");
+	height: 100vh;
+	background-size: contain;
+}
+.myform{
+	min-width: 430px;
+  	position: absolute;
+  	text-align: center;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	font-size: 1.5rem;
+  	padding: 3%;
+  	border: 2px solid white;
+  	background-color: #00000078;
+  	border-radius: 3%;
+}
+.submit{
+	width: 40%;
+    font-size: 20px;
+    color: white;
+    background-color: #77889969;
+    cursor: pointer !important;
+}
+.vl {
+    border-left: 2px solid black;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+.align-center{
+	min-width: 430px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.background{
+	background-image: url(images/graph_image/black-friday-buy-computer-34577.jpg);
+	background-size: cover;
+}
